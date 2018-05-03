@@ -10,3 +10,15 @@ C:\Users\Mary\source\repos\demo\demo\obj\Debug\netcoreapp2.0\demo.AssemblyInfoIn
 C:\Users\Mary\source\repos\demo\demo\obj\Debug\netcoreapp2.0\demo.AssemblyInfo.cs
 C:\Users\Mary\source\repos\demo\demo\obj\Debug\netcoreapp2.0\demo.dll
 C:\Users\Mary\source\repos\demo\demo\obj\Debug\netcoreapp2.0\demo.pdb
+C:\Users\Mary\Desktop\demo\demo\bin\Debug\netcoreapp2.0\demo.deps.json
+C:\Users\Mary\Desktop\demo\demo\bin\Debug\netcoreapp2.0\demo.runtimeconfig.json
+C:\Users\Mary\Desktop\demo\demo\bin\Debug\netcoreapp2.0\demo.runtimeconfig.dev.json
+C:\Users\Mary\Desktop\demo\demo\bin\Debug\netcoreapp2.0\demo.dll
+C:\Users\Mary\Desktop\demo\demo\bin\Debug\netcoreapp2.0\demo.pdb
+C:\Users\Mary\Desktop\demo\demo\obj\Debug\netcoreapp2.0\demo.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Desktop\demo\demo\obj\Debug\netcoreapp2.0\demo.csproj.CoreCompileInputs.cache
+C:\Users\Mary\Desktop\demo\demo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Mary\Desktop\demo\demo\obj\Debug\netcoreapp2.0\demo.AssemblyInfoInputs.cache
+C:\Users\Mary\Desktop\demo\demo\obj\Debug\netcoreapp2.0\demo.AssemblyInfo.cs
+C:\Users\Mary\Desktop\demo\demo\obj\Debug\netcoreapp2.0\demo.dll
+C:\Users\Mary\Desktop\demo\demo\obj\Debug\netcoreapp2.0\demo.pdb
